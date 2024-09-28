@@ -1,4 +1,17 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Start
+
+Random integer selected 1>=10
+
+INPUT player selects integer 1>=10
+
+If player is correct THEN OUTPUT 'You're a Winner!'
+
+If player is incorrect THEN OUTPUT 'Try Again'
+
+If player answers incorrect 3>=3 times THEN 'Game Over'
+
+End 
 

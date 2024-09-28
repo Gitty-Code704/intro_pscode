@@ -1,4 +1,12 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Count = 2
 
+While count <=50
+
+Print (count)
+
+Count +=2
+
+Endwhile

@@ -1,4 +1,24 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+Start
+
+directions <- [North, South, East, West]
+
+For i = 0 To 2
+
+	While names[i] ! = North
+
+	While names[i] ! = South
+
+	While names[i] ! = East 
+
+	While names[i] ! = West 
+
+		i = i + 1
+
+	Endwhile
+
+Endfor 
+
 
